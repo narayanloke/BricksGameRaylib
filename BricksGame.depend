@@ -9,8 +9,15 @@
 	<stdarg.h>
 	<stdbool.h>
 
-1733674388 source:/home/lokesaheb/cppprojs/BricksGame/main.cpp
+1733676729 source:/home/lokesaheb/cppprojs/BricksGame/main.cpp
 	<iostream>
 	"raylib.h"
 	"player.h"
+	"brick.h"
+
+1733676289 source:/home/lokesaheb/cppprojs/BricksGame/brick.cpp
+	"brick.h"
+
+1733676281 /home/lokesaheb/cppprojs/BricksGame/brick.h
+	"raylib.h"
 
