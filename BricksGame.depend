@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1733674575 source:/home/lokesaheb/cppprojs/BricksGame/player.cpp
+	"player.h"
+
+1733674153 /home/lokesaheb/cppprojs/BricksGame/player.h
+	"raylib.h"
+
+1733585563 /home/lokesaheb/raylib/src/raylib.h
+	<stdarg.h>
+	<stdbool.h>
+
+1733674388 source:/home/lokesaheb/cppprojs/BricksGame/main.cpp
+	<iostream>
+	"raylib.h"
+	"player.h"
+
