@@ -53,7 +53,7 @@ int main(int argc,char **argv)
 
     while(!WindowShouldClose())
     {
-        if(ctrRef==100)
+        if(ctrRef==60)
         {
             brickIncY=1;
             ctrRef=0;

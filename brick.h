@@ -3,7 +3,7 @@
 #include "raylib.h"
 
 class Brick {
-private:
+public:
     int x;
     int y;
     int width;
@@ -12,10 +12,7 @@ private:
 
     int scrHeight=0;
     int scrWidth=0;
-
     int collisionBit=0;
-
-public:
     Brick();
     Brick(int x,int y,int width,int height,Color color);
     void renderBrick(int x,int y);
